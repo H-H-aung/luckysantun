@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local backups and archives
+*.zip
+
+# Environment-specific secrets
+.env
+.env.*
+!.env.example
